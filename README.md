@@ -30,4 +30,4 @@ The project presentation and initial system design have been
 completed. Development of the working prototype is in progress.
 
 ## 📁 Documentation
-The project presentation is available in the `docs` folder.
+The project presentation is available in the `Docs` folder.
