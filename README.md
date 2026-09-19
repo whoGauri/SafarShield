@@ -24,10 +24,10 @@ SafarShield aims to provide:
 - AI API(Gemini)
 
 ## Project Status
-🟡 Currently under development
+Currently under development
 
 The project presentation and initial system design have been
 completed. Development of the working prototype is in progress.
 
-## 📁 Documentation
+## Documentation
 The project presentation is available in the `Docs` folder.
